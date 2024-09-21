@@ -1,0 +1,24 @@
+/* body {
+    background-color: lightblue;
+  } */
+  
+  #test {
+    color: navy;
+    margin-left: 20px;
+  }
+
+  #Contenedor {
+        display: grid;
+        grid-template-columns: auto auto;
+        justify-content: space-between;
+        column-gap: 50px;
+  }
+
+  #Contenedor2 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-between;
+    column-gap: 50px;
+    
+}
+
